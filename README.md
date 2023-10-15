@@ -1,7 +1,7 @@
 # GHW
 
 Hey folks,
-Welcome to my project
+Welcome to my project!
 
 # This is my first Github contribution!
 
