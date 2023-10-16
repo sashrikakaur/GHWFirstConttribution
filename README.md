@@ -6,4 +6,5 @@ Welcome to my project!
 # This is my first Github contribution!
 
 We are celebrating a week long hacker festival. Add your username here and make your first Github contribution.
-* chinweibegbu ([GitHub Profile](https://github.com/chinweibegbu))
+- Sashrika Kaur
+- chinweibegbu ([GitHub Profile](https://github.com/chinweibegbu))
