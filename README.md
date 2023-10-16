@@ -1,4 +1,4 @@
-#GHW - GitHub Hacker Week
+#GHW - Global Hack week
 
 Hey folks,
 Welcome to my project!
