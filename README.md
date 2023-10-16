@@ -3,6 +3,6 @@
 Hey folks,
 Welcome to my project!
 
-# This is my first Github contribution!
+# This is my Github MLH Contribution!
 
-We are celebrating a week long hacker festival. Add your username here and make your first Github contribution.
+Hai, I'm @phanendharreddy (Phanendhar Reddy).
