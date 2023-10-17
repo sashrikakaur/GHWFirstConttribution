@@ -1,7 +1,7 @@
 # GHW
 
 Hey folks,
-Welcome to my project!
+Welcome to our project!
 
 # This is my first Github contribution!
 
@@ -10,3 +10,4 @@ We are celebrating a week long hacker festival. Add your username here and make 
 - Akash3121
 - Sashrika Kaur
 - Blahaj
+- parzivalcyber
