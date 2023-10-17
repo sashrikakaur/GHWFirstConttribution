@@ -9,3 +9,5 @@ We are celebrating a week long hacker festival. Add your username here and make 
 
 - Akash3121
 - Sashrika Kaur
+- 👋 Hi, I'm Deva praveen !
+🎉 Excited to contribute this October open source projects. 
